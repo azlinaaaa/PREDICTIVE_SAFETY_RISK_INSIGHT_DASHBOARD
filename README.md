@@ -1,5 +1,7 @@
 # 🚧 Predictive Safety Risk Insight Dashboard (2015–2017) 🚧
 
+---
+
 ![Power BI](https://img.shields.io/badge/Business_Intelligence-Power_BI-yellow?style=for-the-badge&logo=powerbi)
 ![HSE Analytics](https://img.shields.io/badge/Domain-HSE_Analytics-green?style=for-the-badge)
 
